@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Shiva 👋  
 
-<!--
-**Shiva-exe/shiva-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring **Cybersecurity Professional** passionate about protecting systems, networks, and data.  
+💡 I thrive on solving challenges through hands-on labs, capture-the-flag exercises, and real-world scenarios.  
+⚡ Dedicated learner — I push myself to grow (in progress trying to complete a 6-month Google Cybersecurity course in just 1 week 🚀).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Certifications  
+- Google Cybersecurity Certificate (in progress)  
+- CompTIA Security+ (in progress)
+- Junior Penetration Tester (PT1) (in progress)
+- Security Analyst Level 1 (SAL1) (in progress)
+
+---
+
+## 🛠️ Skills & Tools  
+- **Core Interests**: Red Teaming, penetration testing, threat detection, vulnerability management, network security  
+- **Tools & Platforms**: TryHackMe, Kali Linux  
+- **Programming/Scripting**: Python, Java, C, SQL  
+- **Other**: Git, Linux fundamentals, cloud basics (AWS/GCP)  
+
+---
+
+## 🚀 Current Projects & Labs  
+On this account, I’ll be adding:  
+- Cybersecurity lab write-ups (TryHackMe / CTFs) 🔐  
+- Security tool experiments 🛡️  
+- Notes from courses & certifications 📘  
+
+---
+
+## 🌱 Current Focus  
+- Preparing for my **CompTIA Security+ certification**  
+- Completing **TryHackMe labs** and documenting progress  
+- Grinding through the **Google Cybersecurity Certificate**  
+- Building a strong foundation in network & cloud security  
+- Exploring penetration testing methodologies  
+
+---
+
+## 📫 Connect  
+- [Email](mailto:shiva.d.shank@gmail.com)  
