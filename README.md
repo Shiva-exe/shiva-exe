@@ -2,12 +2,12 @@
 
 🔐 Aspiring **Cybersecurity Professional** passionate about protecting systems, networks, and data.  
 💡 I thrive on solving challenges through hands-on labs, capture-the-flag exercises, and real-world scenarios.  
-⚡ Dedicated learner — I push myself to grow (in progress trying to complete a 6-month Google Cybersecurity course in just 1 week 🚀).  
+⚡ Dedicated learner — I push myself to grow (completed a 6-month Google Cybersecurity course in just 1 week 🚀).  
 
 ---
 
 ## 🎓 Certifications  
-- Google Cybersecurity Certificate (in progress)  
+- Google Cybersecurity Certificate (completed)  
 - CompTIA Security+ (in progress)
 - Junior Penetration Tester (PT1) (in progress)
 - Security Analyst Level 1 (SAL1) (in progress)
